@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "name": "museum",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/513562776",
+        "@id": "node/513562776",
+        "contact:email": "chelmusart@mail.ru",
+        "contact:facebook": "https://www.facebook.com/MusArt74",
+        "contact:instagram": "https://www.instagram.com/chelmusart",
+        "contact:phone": "+7 351 266-38-17",
+        "contact:twitter": "https://twitter.com/chelmusart",
+        "contact:vk": "https://vk.com/club26910194",
+        "contact:website": "http://chelmusart.ru",
+        "museum": "art",
+        "name": "Челябинский государственный музей изобразительных искусств (выставочный зал)",
+        "opening_hours": "Tu-Su 10:00-18:00; Th 12:00-20:00",
+        "start_date": "1940",
+        "tourism": "museum",
+        "description": "Выставочный зал музея изобразительных искусств - площадка для временных экспозиций, посвящённых живописи, графике и современному искусству.",
+        "description_en": "The exhibition hall of the Fine Arts Museum is a venue for temporary exhibitions dedicated to painting, graphics, and contemporary art.",
+        "description_zh": "美术博物馆展厅是举办临时展览的场所，主要展示绘画、版画和当代艺术。",
+        "path": "C:/Users/katay/Downloads/export (10).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4043789, 55.1596385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/3162851875",
+        "@id": "node/3162851875",
+        "contact:phone": "+7 351 7754467",
+        "contact:website": "http://chtz-uraltrac.ru/articles/categories/94.php",
+        "name": "Музей трудовой и боевой славы ЧТЗ",
+        "tourism": "museum",
+        "description": "Музей ЧТЗ - экспозиция, посвящённая истории завода и его роли в промышленности и военные годы.",
+        "description_en": "The ChTZ Museum is dedicated to the history of the plant and its role in industry and wartime production.",
+        "description_zh": "切特兹博物馆 посвящен工厂历史及其在工业和战争年代中的作用。",
+        "path": "C:/Users/katay/Downloads/export (10).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4339842, 55.1604094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/6669561769",
+        "@id": "node/6669561769",
+        "name": "Музей истории Южно-Уральской железной дороги",
+        "name:en": "Chelyabinsk railway history museum",
+        "tourism": "museum",
+        "wikidata": "Q4508703",
+        "wikipedia": "ru:Челябинский железнодорожный музей",
+        "description": "Музей железнодорожной истории - коллекция техники, документов и экспонатов, связанных с развитием железных дорог региона.",
+        "description_en": "The railway history museum contains equipment, documents, and exhibits related to the development of the region’s railways.",
+        "description_zh": "铁路历史博物馆收藏了与本地区铁路发展有关的设备、文件和展品。",
+        "path": "C:/Users/katay/Downloads/export (10).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4123002, 55.1493354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9007356436",
+        "@id": "node/9007356436",
+        "name": "Музей истории ЧЭМК",
+        "tourism": "museum",
+        "description": "Музей ЧЭМК - экспозиция о развитии металлургического производства и истории предприятия.",
+        "description_en": "The ChEMK Museum presents the history of metallurgical production and the development of the enterprise.",
+        "description_zh": "切艾МК博物馆展示了冶金生产的发展和企业历史。",
+        "path": "C:/Users/katay/Downloads/export (10).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4222437, 55.1858392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9064213941",
+        "@id": "node/9064213941",
+        "name": "Музей локомотивного депо",
+        "tourism": "museum",
+        "description": "Музей локомотивного депо - экспозиция, посвящённая истории локомотивов и железнодорожного транспорта.",
+        "description_en": "The locomotive depot museum is dedicated to the history of locomotives and railway transport.",
+        "description_zh": "机车车辆段博物馆 посвящен机车和铁路运输的历史。",
+        "path": "C:/Users/katay/Downloads/export (10).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4173414, 55.1504834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/11049762019",
+        "@id": "node/11049762019",
+        "name": "Музей истории ЧКПЗ",
+        "tourism": "museum",
+        "description": "Музей ЧКПЗ - экспозиция, посвящённая истории кузнечно-прессового завода.",
+        "description_en": "The ChKPZ Museum is dedicated to the history of the forging and press plant.",
+        "description_zh": "切КПЗ博物馆 посвящ于锻压厂的历史。",
+        "path": "C:/Users/katay/Downloads/export (10).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.5124699, 55.1228888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/9007313183",
+        "@id": "node/9007313183",
+        "contact:vk": "https://vk.com/museumaret",
+        "contact:website": "https://www.csu.ru/science/archaeology-and-ethnography-museum/Museum of Archaeology and Ethnography of CSU.aspx",
+        "name": "Музей археологии и этнографии ЧелГУ",
+        "tourism": "museum",
+        "description": "Музей ЧелГУ - собрание археологических находок и этнографических материалов Южного Урала.",
+        "description_en": "The CSU Museum contains archaeological finds and ethnographic materials from the Southern Urals.",
+        "description_zh": "车里雅宾斯克国立大学博物馆收藏了南乌拉尔地区的考古发现和民族志资料。",
+        "path": "C:/Users/katay/Downloads/export (17).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3190295, 55.1779321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/103610500",
+        "@id": "way/103610500",
+        "contact:email": "mail@chelmuseum.ru",
+        "contact:phone": "+7 351 2250380",
+        "contact:vk": "https://vk.com/chelmuseum_official",
+        "contact:website": "https://chelmuseum.ru",
+        "museum": "nature;history;archaeological",
+        "name": "Государственный исторический музей Южного Урала",
+        "name:en": "State Historical Museum of the Southern Urals",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 11:00-19:00",
+        "start_date": "1923",
+        "tourism": "museum",
+        "description": "Главный музей региона - экспозиции по истории, природе и археологии Южного Урала.",
+        "description_en": "The main museum of the region presents exhibitions on the history, nature, and archaeology of the Southern Urals.",
+        "description_zh": "这是该地区的主要博物馆，展览内容涵盖南乌拉尔的历史、自然和考古。",
+        "path": "C:/Users/katay/Downloads/export (20).geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3976609, 55.1683245]
+      }
+    }
+  ]
+}

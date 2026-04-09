@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "name": "prospects",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/129624448",
+        "@id": "way/129624448",
+        "highway": "primary",
+        "int_name": "Sverdlovsky prospekt",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Свердловский проспект",
+        "name:-1967": "Лесная улица",
+        "name:1967-": "Свердловский проспект",
+        "name:en": "Sverdlovsky Avenue",
+        "name:ru:word_stress": "Свердло́вский проспе́кт",
+        "oneway": "yes",
+        "subject:wikidata": "Q887",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": "Q4410159",
+        "wikipedia": "ru:Свердловский проспект (Челябинск)",
+        "@geometry": "center",
+        "width": null,
+        "public_transport": null,
+        "railway": null,
+        "tram": null,
+        "area": null,
+        "layer": "export (76)",
+        "path": "C:/Users/katay/Downloads/export (76).geojson",
+        "description": "Свердловский проспект - одна из основных магистралей Челябинска, связывающая центральные и северо-западные районы города.",
+        "description_en": "Sverdlovsky Avenue is one of the main thoroughfares of Chelyabinsk, connecting the central and northwestern districts of the city.",
+        "description_zh": "斯维尔德洛夫斯基大街是车里雅宾斯克的主要交通干道之一，连接市中心和西北部地区。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3880362, 55.1696967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/1036485069",
+        "@id": "way/1036485069",
+        "highway": "secondary",
+        "int_name": "Komsomol'skiy prospekt",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Комсомольский проспект",
+        "name:-1967": null,
+        "name:1967-": null,
+        "name:en": "Komsomol'skiy Avenue",
+        "name:ru:word_stress": null,
+        "oneway": "yes",
+        "subject:wikidata": "Q166073",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "wikidata": null,
+        "wikipedia": null,
+        "@geometry": "center",
+        "width": "25",
+        "public_transport": null,
+        "railway": null,
+        "tram": null,
+        "area": null,
+        "layer": "export (77)",
+        "path": "C:/Users/katay/Downloads/export (77).geojson",
+        "description": "Комсомольский проспект - крупная городская магистраль Челябинска, обеспечивающая транспортную связь жилых и общественных районов.",
+        "description_en": "Komsomolsky Avenue is a major urban road in Chelyabinsk, providing transport links between residential and public areas.",
+        "description_zh": "共青团大街是车里雅宾斯克的重要城市道路，连接住宅区和公共区域。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3196109, 55.1944815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/1089402686",
+        "@id": "way/1089402686",
+        "highway": null,
+        "int_name": null,
+        "lanes": null,
+        "lit": null,
+        "maxspeed": null,
+        "name": "Проспект Победы",
+        "name:-1967": null,
+        "name:1967-": null,
+        "name:en": null,
+        "name:ru:word_stress": null,
+        "oneway": null,
+        "subject:wikidata": null,
+        "surface": null,
+        "trolley_wire": null,
+        "wikidata": null,
+        "wikipedia": null,
+        "@geometry": "center",
+        "width": null,
+        "public_transport": "platform",
+        "railway": "platform",
+        "tram": "yes",
+        "area": null,
+        "layer": "export (78)",
+        "path": "C:/Users/katay/Downloads/export (78).geojson",
+        "description": "Проспект Победы - одна из протяжённых улиц Челябинска, имеющая важное значение для движения общественного и личного транспорта.",
+        "description_en": "Prospekt Pobedy is one of the longest streets in Chelyabinsk and is important for both public and private transport.",
+        "description_zh": "胜利大街是车里雅宾斯克最长的街道之一，对公共和私人交通都十分重要。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4142114, 55.1848717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/586498894",
+        "@id": "way/586498894",
+        "highway": null,
+        "int_name": null,
+        "lanes": null,
+        "lit": null,
+        "maxspeed": null,
+        "name": "Улица Труда",
+        "name:-1967": null,
+        "name:1967-": null,
+        "name:en": null,
+        "name:ru:word_stress": null,
+        "oneway": null,
+        "subject:wikidata": null,
+        "surface": null,
+        "trolley_wire": null,
+        "wikidata": null,
+        "wikipedia": null,
+        "@geometry": "center",
+        "width": null,
+        "public_transport": "platform",
+        "railway": "platform",
+        "tram": "yes",
+        "area": "yes",
+        "layer": "export (79)",
+        "path": "C:/Users/katay/Downloads/export (79).geojson",
+        "description": "Улица Труда - одна из основных улиц центральной части Челябинска, проходящая через важные общественные и деловые зоны города.",
+        "description_en": "Truda Street is one of the main streets in central Chelyabinsk, passing through important public and business areas of the city.",
+        "description_zh": "劳动街是车里雅宾斯克市中心的主要街道之一，穿过重要的公共和商务区域。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4157912, 55.1673896]
+      }
+    }
+  ]
+}

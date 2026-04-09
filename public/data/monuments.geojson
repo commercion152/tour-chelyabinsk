@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "name": "monuments",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/290682691",
+        "@id": "node/290682691",
+        "alt_name": "Расщеплённый атом",
+        "historic": "monument",
+        "name": "И. В. Курчатову",
+        "name:en": "Igor Kurchatov",
+        "description": "Памятник И. В. Курчатову - один из наиболее известных монументальных объектов Челябинска, посвященный выдающемуся советскому физику.",
+        "description_en": "The monument to Igor Kurchatov is one of the most famous landmarks in Chelyabinsk, dedicated to the outstanding Soviet physicist.",
+        "description_zh": "库尔恰托夫纪念碑是车里雅宾斯克最著名的地标之一，纪念杰出的苏联物理学家。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3626534, 55.1593103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/370238172",
+        "@id": "node/370238172",
+        "historic": "memorial",
+        "name": "Добровольцам-танкистам",
+        "name:en": "To the Volunteers-tankers",
+        "description": "Памятник добровольцам-танкистам - мемориальный объект, посвященный участникам добровольческого танкового движения в годы Великой Отечественной войны.",
+        "description_en": "The monument to volunteer tankers is a memorial dedicated to participants of the volunteer tank movement during World War II.",
+        "description_zh": "志愿坦克兵纪念碑 посвящен第二次世界大战期间的志愿坦克部队。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4014057, 55.1631631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/3693798959",
+        "@id": "node/3693798959",
+        "name": "Верблюд двугорбый",
+        "description": "Скульптурный объект «Верблюд двугорбый» - городская декоративная композиция.",
+        "description_en": "The Bactrian camel sculpture is a decorative urban artwork.",
+        "description_zh": "双峰骆驼雕塑是城市中的装饰艺术作品。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3674293, 55.1684045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/5865301585",
+        "@id": "node/5865301585",
+        "name": "Верблюд",
+        "description": "Скульптура «Верблюд» - декоративный городской объект.",
+        "description_en": "The camel sculpture is a decorative urban object.",
+        "description_zh": "骆驼雕塑是城市中的装饰性艺术作品。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3982717, 55.1579601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/6383976788",
+        "@id": "node/6383976788",
+        "name": "Верблюд",
+        "description": "Скульптура «Верблюд» - художественный объект городской среды.",
+        "description_en": "The camel sculpture is an artistic element of the urban environment.",
+        "description_zh": "骆驼雕塑是城市环境中的艺术元素。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3431099, 55.1026844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/2293308883",
+        "@id": "node/2293308883",
+        "name": "Пушкин",
+        "description": "Объект с наименованием «Пушкин» - точка городской застройки.",
+        "description_en": "An urban object named 'Pushkin', marked as a service location.",
+        "description_zh": "名为“普希金”的城市设施点。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4054516, 55.1539699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/657922715",
+        "@id": "way/657922715",
+        "historic": "memorial",
+        "name": "Вечный огонь",
+        "name:en": "Eternal flame",
+        "description": "Мемориал «Вечный огонь» - памятный объект воинской славы.",
+        "description_en": "The Eternal Flame memorial honors fallen soldiers.",
+        "description_zh": "永恒之火纪念碑是纪念阵亡士兵的象征。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.4030756, 55.1632053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "node/2611063243",
+        "@id": "node/2611063243",
+        "historic": "memorial",
+        "name": "Вечный огонь",
+        "description": "Мемориальный объект «Вечный огонь» - символ памяти.",
+        "description_en": "The Eternal Flame is a symbol of remembrance for WWII victims.",
+        "description_zh": "永恒之火象征对二战遇难者的纪念。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61.3980736, 55.2613751]
+      }
+    }
+  ]
+}

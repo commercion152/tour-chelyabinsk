@@ -1,0 +1,6 @@
+﻿node_modules/
+dist/
+.env
+public/tiles/
+public/image_obj/
+public/icons/

@@ -1,0 +1,136 @@
+{
+"type": "FeatureCollection",
+"name": "arch",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"name": "Администрация города Челябинска",
+"description": "Административное здание, в котором размещаются органы местного самоуправления Челябинска и ведется работа городской администрации.",
+"description_en": "Administrative building housing the local government bodies of Chelyabinsk.",
+"description_zh": "车里雅宾斯克市政府所在地，负责城市行政管理。"
+},
+"geometry": { "type": "Point", "coordinates": [61.4012321,55.1574115] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Храм святого благоверного князя Дмитрия Донского",
+"description": "Православный храм Челябинска, действующий объект религиозной архитектуры.",
+"description_en": "Orthodox church in Chelyabinsk, an active religious building.",
+"description_zh": "车里雅宾斯克的一座东正教教堂，是活跃的宗教建筑。"
+},
+"geometry": { "type": "Point", "coordinates": [61.4038147,55.2612106] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Свято-Симеоновский кафедральный собор",
+"description": "Кафедральный православный собор Челябинска, один из известных религиозных объектов города.",
+"description_en": "Cathedral Orthodox church in Chelyabinsk, one of the city's major religious landmarks.",
+"description_zh": "车里雅宾斯克的重要东正教主教座堂之一。"
+},
+"geometry": { "type": "Point", "coordinates": [61.3908899,55.1769439] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Кафедральный собор Рождества Христова",
+"description": "Крупный православный собор Челябинска, современный религиозный комплекс.",
+"description_en": "Large Orthodox cathedral and modern religious complex.",
+"description_zh": "大型东正教大教堂，是现代宗教建筑综合体。"
+},
+"geometry": { "type": "Point", "coordinates": [61.2842517,55.1773623] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Мечеть Махалля № 905",
+"description": "Действующая мечеть Челябинска.",
+"description_en": "Active mosque in Chelyabinsk.",
+"description_zh": "车里雅宾斯克的一座清真寺。"
+},
+"geometry": { "type": "Point", "coordinates": [61.390692,55.2408482] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Махалля соборная мечеть №129",
+"description": "Историческая соборная мечеть Челябинска.",
+"description_en": "Historic mosque in Chelyabinsk.",
+"description_zh": "车里雅宾斯克的一座历史清真寺。"
+},
+"geometry": { "type": "Point", "coordinates": [61.3974202,55.1666969] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Мечеть Исмагила",
+"description": "Действующая мечеть Челябинска.",
+"description_en": "Active mosque in Chelyabinsk.",
+"description_zh": "车里雅宾斯克的一座清真寺。"
+},
+"geometry": { "type": "Point", "coordinates": [61.2839726,55.1822373] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Видгоф",
+"description": "Гранд-отель в центре Челябинска.",
+"description_en": "Grand hotel in the center of Chelyabinsk.",
+"description_zh": "位于市中心的豪华酒店。"
+},
+"geometry": { "type": "Point", "coordinates": [61.4315918,55.1617702] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Законодательное собрание Челябинской области",
+"description": "Административное здание регионального значения.",
+"description_en": "Regional legislative building.",
+"description_zh": "车里雅宾斯克州立法机构大楼。"
+},
+"geometry": { "type": "Point", "coordinates": [61.4005521,55.1608445] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Арбитражный суд Челябинской области",
+"description": "Судебное учреждение в центре города.",
+"description_en": "Court building in the city center.",
+"description_zh": "位于市中心的仲裁法院。"
+},
+"geometry": { "type": "Point", "coordinates": [61.3997544,55.1598969] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "сухой фонтан",
+"description": "Городской сухой фонтан.",
+"description_en": "Dry city fountain.",
+"description_zh": "城市干式喷泉。"
+},
+"geometry": { "type": "Point", "coordinates": [61.3904765,55.2483288] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Международный аэропорт Челябинск имени Игоря Курчатова",
+"description": "Основной аэропорт города.",
+"description_en": "Main airport of the city.",
+"description_zh": "城市的主要机场。"
+},
+"geometry": { "type": "Point", "coordinates": [61.5027976,55.3014857] }
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Челябинск-Главный",
+"description": "Главный железнодорожный вокзал города.",
+"description_en": "Main railway station of Chelyabinsk.",
+"description_zh": "车里雅宾斯克的主要火车站。"
+},
+"geometry": { "type": "Point", "coordinates": [61.417078,55.141065] }
+}
+]
+}
